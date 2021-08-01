@@ -6,7 +6,6 @@ We'll start with the basics and get a feel for running Docker on Windows.
 You'll see how to run task containers, interactive containers and background containers, and explore the filesystem and processes inside Docker containers.
 
 
-
 ## Prerequisites
 
 To follow along you will need [Docker Desktop](https://www.docker.com/products/docker-desktop) set to run in Windows container mode (see lesson 2 for the setup guide).
@@ -18,8 +17,6 @@ docker version
 ```
 
 > You should see Windows for both. Now we can get started!
-
-
 
 ## Run a task in a container
 
